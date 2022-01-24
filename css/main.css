@@ -1,0 +1,143 @@
+@media only screen and (max-width: 1200px) {
+    
+}
+
+@media only screen and (max-width: 1199px) {
+    
+}
+
+@media only screen and (max-width: 992px) {
+    
+}
+
+@media only screen and (max-width: 991px) {
+    
+}
+
+@media only screen and (max-width: 768px) {
+    
+}
+
+@media only screen and (max-width: 767px) {
+    
+}
+
+@media only screen and (max-width: 480px) {
+    
+}
+
+@font-face {
+    font-family: 'Pacifico';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Pacifico Regular'), local('Pacifico-Regular'), url('../fonts/pacifico.woff') format('woof');
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+a {
+    color: #000;
+    text-decoration: none;
+    font-style: italic;
+}
+
+a:hover {
+    color: #555;
+}
+
+body {
+    min-width: 320px;
+    font-size: 14px;
+    background-color: bisque;
+}
+
+::selection {
+    background-color:#FFDEAD;
+    color:bisque;
+}
+
+.navigator-color {
+    font-size: 17px;
+}
+
+#header {
+    background: url(../img/main.jpg) no-repeat center top fixed;
+    background-size: cover;
+}
+
+header .navbar-light {
+    background-color:#fad398;
+}
+
+header .navbar-brand {
+    font-family: 'Orbitron', sans-serif;
+    font-size: 30px;
+    text-transform: uppercase;
+}
+
+header .nav-item {
+    font-family: 'Cinzel', serif;
+    text-transform: uppercase;
+    margin-left: 50px;
+}
+
+body .container {
+    background-color: #fad398;
+}
+
+body .container-topic {
+    background-color: #fabf67;
+    border-radius: 5px;
+}
+
+body .d-block {
+    opacity: .85;
+}
+
+body .middle {
+    padding-top: 350px;
+    padding-bottom: 350px;
+}
+
+body .pro-name {
+    font-family: 'Rouge Script', cursive;
+    font-size: 100px;
+    font-weight: 400;
+    line-height: 90px;
+    color: #fff;
+    letter-spacing: 1px;
+    word-spacing: 6px;
+    margin: 0;
+    margin-bottom: 15px;
+    text-shadow: -2px -2px #000;
+}
+
+.body button-bottom {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.avatar {
+    border-radius: 120px;
+}
+
+.mainimage {
+    max-width: 110%;
+}
+
+.tag {
+    display: inline-block;
+    color: #fff;
+    background-color: #555;
+    border-radius: 5px;
+    margin: 2px;
+    padding: 2px 5px;
+    font-size: 12px;
+}
+
+.bg-card {
+    background-color:#fad398;
+}
