@@ -51,12 +51,12 @@ a:hover {
 body {
     min-width: 320px;
     font-size: 14px;
-    background-color: bisque;
+    background-color: #9da6b9;
 }
 
 ::selection {
-    background-color:#FFDEAD;
-    color:bisque;
+    background-color:#9da6b9;
+    color:#91988c;
 }
 
 .navigator-color {
@@ -85,11 +85,11 @@ header .nav-item {
 }
 
 body .container {
-    background-color: #fad398;
+    background-color: #a9b6c5;
 }
 
 body .container-topic {
-    background-color: #fabf67;
+    background-color: #474c26;
     border-radius: 5px;
 }
 
@@ -121,7 +121,7 @@ body .pro-name {
 }
 
 .avatar {
-    border-radius: 120px;
+    border-radius: 15px;
 }
 
 .mainimage {
